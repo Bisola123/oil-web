@@ -3,7 +3,7 @@ import Button from '@/components/global/Button';
 
 const AboutUs = () => {
   return (
-    <section className='borde p-[40px] flex items-center flex-col '>
+    <section className='borde p-[40px] bg-[#906200] text-white flex items-center flex-col '>
       {/* <div className='font-bold'>Trusted by 30,000 world-class brands and organizations of all sizes
       </div> */}
 
@@ -34,7 +34,7 @@ const AboutUs = () => {
           <div><p>Improving access to energy</p></div>
         </div> */}
           <div className='mt-[20px]'>
-            <Button text='READ MORE' className='bg-[black] w-[300px] lg:hover:!text-black' />
+            {/* <Button text='READ MORE' className='bg-[black] w-[300px] lg:hover:!text-black' /> */}
           </div>
         </div>
 

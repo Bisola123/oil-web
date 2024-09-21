@@ -22,7 +22,7 @@ const Parallax = () => {
                     </div>
                     <div className='w-full lg:w-2/3'>
                         <p className='text-base text-gray-600'>
-                            In performing our functions as a group, we will:
+                            In performing our functions as a group, we will:</p>
                             <ul className='list-disc ml-6'>
                                 <li>Comply with applicable laws and regulations of any country where we operate.</li>
                                 <li>Maintain high integrity and ethics expected of our industry.</li>
@@ -33,7 +33,7 @@ const Parallax = () => {
                                 clients' project requirements. With exclusive partnerships and a track record of
                                 successful project material deliveries, we focus on quality, schedule, and price.
                             </p>
-                        </p>
+                        
                     </div>
                 </div>
 

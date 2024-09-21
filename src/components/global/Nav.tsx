@@ -178,12 +178,12 @@ const Nav = () => {
                     <div className='hidden md:flex gap-[16px]'>
                         <Link to="hero" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Home</Link>
                         <Link to="aboutUs" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>About Us</Link>
-                        <Link to="solution" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Our Values</Link>
-                        <Link to="parallax" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Vision</Link>
-                        <Link to="getTogether" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Mission</Link>
-                        <Link to="projects" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Our Growing Client</Link>
-                        <Link to="footer" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Contact Us</Link>
-                        <ButtonDark text={'Get Involved'} hidden='hidden' fontType={'font-unbounded'} link='/involved' />
+                        <Link to="solution" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Services</Link>
+                        <Link to="parallax" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Clients</Link>
+                        <Link to="getTogether" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Contacts</Link>
+                        {/* <Link to="projects" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Our Growing Client</Link> */}
+                        {/* <Link to="footer" smooth={true} duration={500} className='p-[8px] text-white text-[16px] cursor-pointer hover:underline'>Contact Us</Link> */}
+                        {/* <ButtonDark text={'Get Involved'} hidden='hidden' fontType={'font-unbounded'} link='/involved' /> */}
                     </div>
                 </div>
             </nav>

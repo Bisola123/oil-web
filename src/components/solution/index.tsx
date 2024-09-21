@@ -4,8 +4,8 @@ import React from 'react';
 
 const Solution = () => {
     return (
-        <section className='p-6 bg-gradient-to-r from-gray-100 to-blue-100 min-h-screen'>
-            <p className='text-3xl font-bold text-gray-900 mb-8'>Scope of Our Services</p>
+        <section className='p-6 bg-[#906200]'>
+            <p className='text-3xl font-bold text-white mb-8'>Scope of Our Services</p>
 
             <div className='p-8 grid grid-cols-1 lg:grid-cols-3  gap-2 rounded-lg backdrop-blur-lg bg-white/30 border border-white/20 shadow-lg'>
                 {/* Service 1 */}

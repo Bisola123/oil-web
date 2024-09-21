@@ -38,7 +38,7 @@ export default function Home() {
       <div id="aboutUs"><AboutUs /></div>
       <div id="solution"><Solution /></div>
       <div id="parallax"><Parallax /></div>
-      <div id="getTogether"><GetTogether /></div>
+      {/* <div id="getTogether"><GetTogether /></div> */}
       <div id="projects"><Projects /></div>
       <div id="footer"><Footer /></div>
     </section>
