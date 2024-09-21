@@ -5,7 +5,7 @@ import AboutUs from "@/components/aboutus";
 import Solution from "@/components/solution";
 import Parallax from "@/components/parallax";
 import Projects from "@/components/projects";
-import GetTogether from "@/components/together";
+// import GetTogether from "@/components/together";
 
 
 export async function generateMetadata() {
